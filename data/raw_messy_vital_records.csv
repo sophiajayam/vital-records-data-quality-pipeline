@@ -1,0 +1,521 @@
+Record_ID,Event_Type,Event_Date,Primary_Name,City
+CERT-1052,Death,21-09-1996,  Marie   Roux  ,
+CERT-1220,Death,28-03-1991,anna DUBOIS,Strasbourg
+CERT-1138,Tod,15-12-1999,marie BERNARD,Paris
+CERT-1018,Geburt,24.10.98,jean SCHNEIDER,Lyon
+CERT-1383,Heirat,25-08-1996,Sophie Dubois,Berlin
+CERT-1382,Mariage,11-01-1995,Lukas Dubois,Paris
+CERT-1133,Birth,20-Sep-96,jean SCHMIDT,Lyon
+CERT-1237,Heirat,07.11.99,Lukas Fischer,Munich
+CERT-1071,Birth,08-04-1997,julia SCHMIDT,Berlin
+CERT-1004,Décès,04-08-1991,Julia Bernard,Lyon
+CERT-1449,Heirat,23-04-1999,klaus DUBOIS,Lyon
+CERT-1465,Geburt,01.07.92,Sophie Martin,Hamburg
+CERT-1054,Décès,25-06-1990,jean BERNARD,Paris
+CERT-1142,Tod,24-Jul-94,Pierre Roux,Hamburg
+CERT-1028,Death,10-01-1999,,Paris
+CERT-1429,Naissance,15.08.96,lukas ROUX,Munich
+CERT-1336,Heirat,21-07-1994,anna MARTIN,Marseille
+CERT-1187,Geburt,08-01-1990,Sophie Bernard,Hamburg
+CERT-1275,Death,15-01-1996,sophie SCHMIDT,Munich
+CERT-1261,Death,24-08-1991,marie SCHMIDT,Hamburg
+CERT-1377,Heirat,24.10.92,marie FISCHER,Marseille
+CERT-1489,Décès,01-01-1996,lukas DUBOIS,Berlin
+CERT-1311,Geburt,02.12.92,Pierre Martin,Lyon
+CERT-1364,Birth,14.12.94,Claire Martin,Berlin
+CERT-1345,Décès,03-07-1998,klaus DUBOIS,Munich
+CERT-1165,Birth,28-04-1992,klaus SCHMIDT,Lyon
+CERT-1234,Death,23-03-1997,Anna Roux,Lyon
+CERT-1135,Mariage,02-12-1999,Anna Fischer,
+CERT-1312,Heirat,16-Oct-92,klaus DUBOIS,Marseille
+CERT-1470,Décès,20.09.94,Lukas Müller,Hamburg
+CERT-1025,Naissance,22-06-1992,marie BERNARD,Paris
+CERT-1180,Birth,27-11-1992,julia BERNARD,Paris
+CERT-1320,Geburt,09-08-1998,anna SCHNEIDER,Paris
+CERT-1243,Heirat,17-04-1996,marie ROUX,Marseille
+CERT-1495,Birth,06-Feb-90,Klaus Roux,Marseille
+CERT-1193,Death,25.12.98,Sophie Müller,Hamburg
+CERT-1262,Heirat,07-01-1998,lukas DUBOIS,
+CERT-1277,Birth,13-04-1999,marie FISCHER,Marseille
+CERT-1473,Tod,10-Apr-97,sophie SCHMIDT,
+CERT-1378,Birth,15-Feb-90,jean BERNARD,Lyon
+CERT-1091,Mariage,03-Feb-92,jean SCHMIDT,
+CERT-1249,Birth,03.09.97,Claire Bernard,
+CERT-1029,Geburt,27-Aug-97,claire SCHMIDT,Marseille
+CERT-1088,Mariage,23-11-1998,klaus MARTIN,Marseille
+CERT-1080,Death,23-Sep-98,claire DUBOIS,Berlin
+CERT-1480,Naissance,04-06-1994,Anna Martin,Hamburg
+CERT-1101,Death,07-12-1994,Pierre Dubois,
+CERT-1177,Naissance,04-Jan-90,Claire Schneider,Hamburg
+CERT-1242,Death,28-10-1990,Anna Müller,Munich
+CERT-1302,Death,12-01-1995,marie BERNARD,Paris
+CERT-1464,Naissance,21-Oct-91,Sophie Dubois,Lyon
+CERT-1235,Décès,08-Jul-92,klaus FISCHER,Lyon
+CERT-1420,Heirat,08.06.90,  Pierre   Schmidt  ,Lyon
+CERT-1469,Naissance,03-11-1998,Anna Müller,Strasbourg
+CERT-1217,Birth,26-Nov-94,marie BERNARD,Lyon
+CERT-1059,Birth,06-03-1990,claire SCHNEIDER,
+CERT-1341,Heirat,25.01.97,marie ROUX,Paris
+CERT-1015,Décès,14-04-1991,  Jean   Dubois  ,Strasbourg
+CERT-1430,Naissance,23-04-1990,marie ROUX,Hamburg
+CERT-1095,Naissance,01-Oct-94,sophie ROUX,Lyon
+CERT-1100,Birth,17.09.91,sophie SCHNEIDER,Paris
+CERT-1478,Birth,15-10-1993,hans ROUX,Paris
+CERT-1109,Death,04-11-1991,Marie Schmidt,Marseille
+CERT-1410,Geburt,23-07-1994,marie ROUX,
+CERT-1391,Décès,21.09.91,  Claire   Martin  ,Lyon
+CERT-1090,Tod,05-06-1998,lukas MÜLLER,Lyon
+CERT-1301,Tod,20-10-1994,sophie SCHNEIDER,Strasbourg
+CERT-1376,Naissance,17.09.93,claire ROUX,Paris
+CERT-1486,Décès,18-07-1994,anna DUBOIS,Munich
+CERT-1323,Tod,27-Apr-91,Julia Roux,Marseille
+CERT-1298,Death,27.07.96,sophie SCHMIDT,Munich
+CERT-1481,Birth,06.11.93,hans MARTIN,Strasbourg
+CERT-1184,Death,12-11-1993,,Hamburg
+CERT-1161,Décès,19.12.92,lukas DUBOIS,Hamburg
+CERT-1461,Heirat,08.07.96,Sophie Bernard,Strasbourg
+CERT-1039,Heirat,24-12-1999,Julia Fischer,Marseille
+CERT-1042,Birth,19-08-1994,Claire Schmidt,Paris
+CERT-1252,Mariage,18.11.92,Klaus Dubois,Marseille
+CERT-1332,Heirat,14-Déc-1991,,Hamburg
+CERT-1379,Naissance,06-03-1990,pierre DUBOIS,Berlin
+CERT-1195,Tod,05-12-1995,  Klaus   Schmidt  ,Berlin
+CERT-1358,Birth,25-04-1999,,Berlin
+CERT-1340,Death,19-05-1991,Claire Müller,Lyon
+CERT-1496,Décès,16.12.99,jean ROUX,Hamburg
+CERT-1245,Geburt,15-Mai-1992,Anna Schneider,Munich
+CERT-1007,Décès,08.03.96,claire ROUX,Paris
+CERT-1107,Naissance,05-Déc-1999,julia MARTIN,Strasbourg
+CERT-1394,Mariage,06-01-1999,Jean Roux,Munich
+CERT-1404,Décès,07.07.98,lukas SCHMIDT,Munich
+CERT-1386,Décès,01-Sep-98,Jean Fischer,Berlin
+CERT-1414,Tod,02-02-1997,claire SCHNEIDER,Strasbourg
+CERT-1191,Geburt,16-03-1991,hans ROUX,
+CERT-1316,Mariage,13-05-1997,Lukas Roux,Lyon
+CERT-1278,Tod,19-05-1999,  Klaus   Martin  ,Lyon
+CERT-1114,Death,24.02.91,klaus ROUX,
+CERT-1426,Naissance,05-01-1992,  Julia   Fischer  ,Hamburg
+CERT-1493,Tod,25-11-1998,  Sophie   Müller  ,Strasbourg
+CERT-1079,Décès,28-11-1991,Hans Müller,Berlin
+CERT-1239,Naissance,20-08-1993,Pierre Schmidt,Berlin
+CERT-1206,Décès,21-12-1998,Pierre Bernard,Hamburg
+CERT-1173,Heirat,26-09-1996,hans SCHMIDT,Munich
+CERT-1450,Mariage,18-07-1993,anna ROUX,Strasbourg
+CERT-1176,Mariage,27.01.97,Sophie Fischer,Lyon
+CERT-1476,Naissance,04-09-1994,jean DUBOIS,Marseille
+CERT-1415,Death,04-10-1990,jean SCHNEIDER,Strasbourg
+CERT-1068,Naissance,17-09-1995,Pierre Roux,Strasbourg
+CERT-1333,Tod,18-Jun-90,klaus MARTIN,Hamburg
+CERT-1233,Décès,19-03-1990,Sophie Bernard,Strasbourg
+CERT-1496,Décès,16.12.99,jean ROUX,Hamburg
+CERT-1479,Naissance,19.09.94,Jean Martin,Lyon
+CERT-1498,Naissance,17-07-1995,Jean Roux,Lyon
+CERT-1344,Tod,04.05.97,  Jean   Fischer  ,Marseille
+CERT-1411,Death,08.06.98,Claire Dubois,Marseille
+CERT-1045,Birth,27.11.99,julia BERNARD,Lyon
+CERT-1362,Birth,01.04.92,marie ROUX,Munich
+CERT-1497,Birth,13-Jan-99,Sophie Schneider,Hamburg
+CERT-1490,Birth,17-Sep-94,Julia Fischer,Marseille
+CERT-1006,Mariage,14-Déc-1990,anna MÜLLER,Berlin
+CERT-1057,Naissance,01-08-1999,Claire Schneider,
+CERT-1140,Décès,27.12.97,Lukas Martin,Hamburg
+CERT-1129,Birth,06-08-1993,Sophie Müller,Munich
+CERT-1401,Mariage,10.10.95,Klaus Fischer,Paris
+CERT-1286,Geburt,15-02-1999,jean MARTIN,Lyon
+CERT-1219,Décès,20-05-1996,pierre SCHNEIDER,Strasbourg
+CERT-1280,Heirat,20-02-1996,Klaus Dubois,Hamburg
+CERT-1268,Tod,01-07-1993,Jean Martin,Strasbourg
+CERT-1435,Mariage,04-Aug-93,lukas FISCHER,Paris
+CERT-1072,Mariage,17-11-1995,klaus DUBOIS,Hamburg
+CERT-1015,Décès,14-04-1991,  Jean   Dubois  ,Strasbourg
+CERT-1310,Mariage,04-05-1990,Sophie Fischer,Paris
+CERT-1013,Naissance,24-11-1996,jean MARTIN,Paris
+CERT-1285,Geburt,17.11.93,Pierre Martin,Hamburg
+CERT-1099,Tod,03-Aug-92,marie MÜLLER,Munich
+CERT-1319,Birth,19-03-1994,  Sophie   Fischer  ,Paris
+CERT-1203,Mariage,04.06.90,klaus ROUX,Berlin
+CERT-1381,Birth,23-Nov-92,Marie Roux,Paris
+CERT-1169,Naissance,26-08-1994,claire ROUX,Marseille
+CERT-1293,Mariage,14.12.92,,Hamburg
+CERT-1205,Naissance,12-08-1997,hans BERNARD,Marseille
+CERT-1406,Death,04-Mar-94,klaus ROUX,Hamburg
+CERT-1002,Naissance,24-02-1996,klaus DUBOIS,
+CERT-1339,Décès,14-10-1993,,Munich
+CERT-1151,Décès,11-Mar-97,Marie Dubois,Strasbourg
+CERT-1483,Décès,09-11-1998,marie FISCHER,
+CERT-1448,Naissance,12-09-1990,Hans Bernard,Hamburg
+CERT-1146,Geburt,11.06.97,lukas MÜLLER,Strasbourg
+CERT-1136,Birth,24-02-1998,Hans Dubois,Strasbourg
+CERT-1477,Mariage,01-10-1992,marie ROUX,Hamburg
+CERT-1254,Mariage,11-Feb-96,sophie FISCHER,Munich
+CERT-1024,Tod,09.05.90,Julia Schmidt,Munich
+CERT-1119,Mariage,06-04-1996,Marie Schmidt,Strasbourg
+CERT-1393,Death,24-07-1993,anna ROUX,Berlin
+CERT-1400,Heirat,03-06-1992,claire BERNARD,
+CERT-1299,Heirat,24-06-1997,klaus ROUX,Berlin
+CERT-1137,Mariage,24-02-1997,Klaus Dubois,Strasbourg
+CERT-1178,Tod,22.02.98,sophie SCHNEIDER,Munich
+CERT-1035,Naissance,12-Déc-1995,claire DUBOIS,Marseille
+CERT-1201,Décès,06-Jan-94,Claire Schneider,Strasbourg
+CERT-1093,Geburt,08-04-1994,anna BERNARD,Strasbourg
+CERT-1359,Geburt,01-12-1993,lukas SCHNEIDER,Munich
+CERT-1198,Naissance,11-07-1999,klaus SCHMIDT,Marseille
+CERT-1154,Tod,21-01-1994,sophie SCHNEIDER,Berlin
+CERT-1264,Décès,18-12-1993,pierre SCHMIDT,Marseille
+CERT-1392,Décès,05-05-1999,anna SCHNEIDER,Hamburg
+CERT-1263,Death,25.01.96,julia SCHNEIDER,Strasbourg
+CERT-1304,Mariage,14-Mar-94,sophie SCHMIDT,Munich
+CERT-1061,Death,05-06-1990,Claire Roux,Lyon
+CERT-1439,Heirat,24-11-1995,Pierre Fischer,Munich
+CERT-1485,Mariage,18.05.92,Pierre Roux,Paris
+CERT-1211,Mariage,28-06-1990,Pierre Bernard,Munich
+CERT-1374,Naissance,07-12-1993,  Julia   Schmidt  ,Paris
+CERT-1077,Heirat,25-Jul-98,julia FISCHER,Munich
+CERT-1350,Tod,26-10-1994,hans BERNARD,Marseille
+CERT-1175,Heirat,24.12.98,,Strasbourg
+CERT-1098,Tod,07.01.95,sophie DUBOIS,Hamburg
+CERT-1259,Heirat,09.03.96,klaus SCHMIDT,Hamburg
+CERT-1046,Birth,20-02-1995,claire SCHMIDT,
+CERT-1089,Mariage,11-03-1993,marie FISCHER,Strasbourg
+CERT-1389,Mariage,10.12.90,lukas MÜLLER,Berlin
+CERT-1222,Birth,07-09-1992,  Klaus   Roux  ,Munich
+CERT-1409,Birth,05-10-1990,Jean Schneider,Paris
+CERT-1037,Naissance,20-Sep-98,Claire Bernard,Munich
+CERT-1351,Naissance,04-07-1995,klaus FISCHER,Berlin
+CERT-1003,Heirat,02-09-1996,jean DUBOIS,Lyon
+CERT-1431,Décès,23.09.95,Hans Schneider,Marseille
+CERT-1330,Birth,04.12.90,klaus MÜLLER,Berlin
+CERT-1327,Tod,10-01-1993,Pierre Schmidt,Munich
+CERT-1181,Décès,19-10-1992,lukas MÜLLER,Paris
+CERT-1338,Tod,25-06-1992,,Berlin
+CERT-1451,Geburt,11-01-1993,klaus ROUX,Berlin
+CERT-1354,Heirat,24-11-1997,marie ROUX,Berlin
+CERT-1155,Heirat,07-03-1999,jean MARTIN,Munich
+CERT-1194,Birth,06-11-1995,Hans Fischer,Paris
+CERT-1086,Death,26-05-1995,hans SCHNEIDER,Strasbourg
+CERT-1047,Décès,04-02-1998,hans MÜLLER,Strasbourg
+CERT-1062,Heirat,07-04-1991,klaus SCHNEIDER,Lyon
+CERT-1159,Geburt,14-03-1990,julia SCHMIDT,Munich
+CERT-1294,Tod,11-02-1996,hans BERNARD,Strasbourg
+CERT-1227,Naissance,20-02-1992,,Strasbourg
+CERT-1112,Mariage,28-Apr-97,pierre SCHNEIDER,Berlin
+CERT-1117,Tod,08-01-1998,Jean Schmidt,Munich
+CERT-1459,Heirat,25-04-1991,Julia Schmidt,Paris
+CERT-1373,Heirat,25-Jul-91,Lukas Schmidt,Lyon
+CERT-1121,Death,07.06.96,jean MARTIN,Lyon
+CERT-1092,Birth,17-03-1996,Klaus Dubois,Munich
+CERT-1197,Décès,12-Déc-1999,marie FISCHER,
+CERT-1291,Mariage,23-09-1997,jean BERNARD,Lyon
+CERT-1214,Birth,19.10.99,Claire Roux,Paris
+CERT-1124,Décès,07-Aug-98,Klaus Schmidt,Marseille
+CERT-1422,Death,08.09.92,,Munich
+CERT-1081,Birth,13-05-1991,Jean Martin,Lyon
+CERT-1255,Birth,04.09.92,pierre SCHNEIDER,Berlin
+CERT-1314,Mariage,09-08-1999,claire MÜLLER,Hamburg
+CERT-1103,Décès,23-12-1999,Klaus Bernard,Paris
+CERT-1156,Birth,06.10.95,Julia Schmidt,Strasbourg
+CERT-1118,Décès,13-01-1998,claire MARTIN,Paris
+CERT-1223,Naissance,13-07-1998,Lukas Schneider,Strasbourg
+CERT-1043,Heirat,20-11-1999,Sophie Roux,Berlin
+CERT-1366,Geburt,10-06-1992,claire BERNARD,Marseille
+CERT-1001,Heirat,11-Aug-95,Anna Fischer,Berlin
+CERT-1094,Naissance,27.12.91,jean MÜLLER,Hamburg
+CERT-1208,Tod,23-09-1994,,Lyon
+CERT-1436,Heirat,10.10.97,julia BERNARD,
+CERT-1317,Heirat,12-Mai-1990,Pierre Schmidt,Strasbourg
+CERT-1168,Death,16-12-1992,Lukas Dubois,Hamburg
+CERT-1325,Death,03-02-1997,hans DUBOIS,Hamburg
+CERT-1171,Heirat,09-04-1991,klaus MARTIN,Hamburg
+CERT-1019,Décès,08-01-1996,claire ROUX,Munich
+CERT-1048,Naissance,05-10-1995,claire MARTIN,Marseille
+CERT-1027,Naissance,11.06.91,lukas FISCHER,Munich
+CERT-1122,Mariage,20-08-1998,klaus DUBOIS,Paris
+CERT-1357,Death,20-03-1994,Claire Fischer,Berlin
+CERT-1128,Death,15.11.94,,Berlin
+CERT-1021,Geburt,13-Jul-98,Hans Fischer,Marseille
+CERT-1287,Birth,11-Mai-1999,Claire Müller,Strasbourg
+CERT-1110,Mariage,13-04-1991,Pierre Martin,Strasbourg
+CERT-1498,Naissance,17-07-1995,Jean Roux,Lyon
+CERT-1022,Death,15.07.94,Lukas Schmidt,Paris
+CERT-1367,Heirat,22-Jun-90,Claire Martin,Hamburg
+CERT-1134,Tod,02-07-1998,Hans Müller,Berlin
+CERT-1008,Mariage,11-03-1991,hans DUBOIS,Munich
+CERT-1407,Birth,09-06-1991,Klaus Fischer,Paris
+CERT-1218,Mariage,22-Sep-98,lukas BERNARD,
+CERT-1466,Geburt,06-Oct-94,Pierre Schmidt,Marseille
+CERT-1433,Décès,16.03.94,  Claire   Bernard  ,Munich
+CERT-1053,Heirat,24-05-1999,Claire Fischer,Hamburg
+CERT-1020,Mariage,21-Jan-96,Pierre Schneider,Marseille
+CERT-1157,Naissance,22.08.91,pierre BERNARD,Paris
+CERT-1158,Heirat,18.11.90,Julia Martin,Lyon
+CERT-1212,Décès,10.10.98,julia FISCHER,Berlin
+CERT-1067,Mariage,01-12-1992,Sophie Schneider,Lyon
+CERT-1300,Mariage,13.12.97,Anna Müller,Marseille
+CERT-1126,Décès,07-Déc-1999,Klaus Müller,Hamburg
+CERT-1299,Heirat,24-06-1997,klaus ROUX,Berlin
+CERT-1441,Mariage,14-07-1990,sophie SCHMIDT,
+CERT-1266,Tod,05-Nov-97,claire ROUX,Lyon
+CERT-1192,Naissance,20.08.95,  Marie   Schneider  ,
+CERT-1452,Birth,17-02-1998,Hans Schneider,Lyon
+CERT-1236,Heirat,08.06.99,pierre FISCHER,Paris
+CERT-1106,Mariage,05-Mar-97,Claire Schneider,
+CERT-1084,Birth,28-Sep-95,Hans Schneider,Munich
+CERT-1237,Heirat,07.11.99,Lukas Fischer,Munich
+CERT-1308,Tod,12-06-1995,klaus ROUX,Marseille
+CERT-1256,Naissance,01.05.97,Julia Dubois,Paris
+CERT-1468,Heirat,05-Jan-90,claire MÜLLER,Berlin
+CERT-1216,Naissance,24-11-1990,Julia Müller,Munich
+CERT-1449,Heirat,23-04-1999,klaus DUBOIS,Lyon
+CERT-1428,Mariage,01-05-1999,,Paris
+CERT-1387,Mariage,12-Mai-1990,hans SCHMIDT,Berlin
+CERT-1246,Heirat,14-12-1990,Klaus Martin,Paris
+CERT-1446,Tod,21.10.90,Hans Martin,
+CERT-1492,Death,26.11.95,sophie ROUX,Munich
+CERT-1063,Décès,14-Mai-1991,  Klaus   Schneider  ,Strasbourg
+CERT-1457,Mariage,13-03-1990,,Strasbourg
+CERT-1196,Geburt,19.11.90,jean SCHMIDT,Lyon
+CERT-1009,Birth,06-11-1998,anna SCHMIDT,Hamburg
+CERT-1087,Mariage,26.01.90,Klaus Martin,Strasbourg
+CERT-1270,Geburt,16.02.90,,Munich
+CERT-1124,Décès,07-Aug-98,Klaus Schmidt,Marseille
+CERT-1347,Tod,21-05-1996,  Julia   Schneider  ,Paris
+CERT-1031,Tod,26-06-1998,lukas MARTIN,Hamburg
+CERT-1012,Birth,19-03-1995,marie MARTIN,Hamburg
+CERT-1213,Death,20-Mar-98,Klaus Fischer,Paris
+CERT-1294,Tod,11-02-1996,hans BERNARD,Strasbourg
+CERT-1289,Death,18-08-1991,hans SCHNEIDER,Marseille
+CERT-1456,Geburt,10-12-1997,sophie SCHMIDT,Berlin
+CERT-1443,Tod,10-05-1991,Sophie Roux,Munich
+CERT-1434,Geburt,10-01-1991,hans SCHMIDT,
+CERT-1170,Birth,15-04-1997,Klaus Dubois,Berlin
+CERT-1166,Death,26-02-1993,julia MÜLLER,Paris
+CERT-1275,Death,15-01-1996,sophie SCHMIDT,Munich
+CERT-1363,Mariage,02-Mar-91,klaus ROUX,Lyon
+CERT-1302,Death,12-01-1995,marie BERNARD,Paris
+CERT-1005,Tod,14-Jan-97,lukas BERNARD,Munich
+CERT-1405,Death,11-10-1997,Sophie Bernard,Berlin
+CERT-1361,Geburt,16.11.90,hans ROUX,Berlin
+CERT-1041,Death,11-11-1994,anna BERNARD,
+CERT-1050,Décès,05-Déc-1995,Marie Schneider,Berlin
+CERT-1267,Mariage,17-12-1992,Hans Roux,Lyon
+CERT-1123,Tod,17-Déc-1995,anna BERNARD,Marseille
+CERT-1417,Heirat,14-10-1992,Julia Bernard,Berlin
+CERT-1197,Décès,12-Déc-1999,marie FISCHER,
+CERT-1190,Décès,27-05-1997,Anna Martin,
+CERT-1038,Death,10-Aug-94,Julia Schmidt,Strasbourg
+CERT-1494,Birth,10-04-1990,claire FISCHER,Strasbourg
+CERT-1120,Mariage,19-Feb-93,  Klaus   Schmidt  ,Paris
+CERT-1082,Décès,28-06-1994,Julia Schmidt,Paris
+CERT-1322,Décès,15-10-1994,anna ROUX,Lyon
+CERT-1152,Geburt,26-Jul-96,Marie Roux,Berlin
+CERT-1064,Décès,11-Jan-98,lukas DUBOIS,Munich
+CERT-1040,Naissance,08-Apr-97,hans SCHMIDT,Paris
+CERT-1437,Mariage,18-01-1990,marie DUBOIS,Munich
+CERT-1370,Birth,05-02-1996,,Strasbourg
+CERT-1023,Tod,23.07.99,,Paris
+CERT-1487,Décès,03.05.97,Anna Fischer,Berlin
+CERT-1225,Geburt,12-10-1995,lukas ROUX,
+CERT-1238,Mariage,22-07-1992,klaus DUBOIS,Munich
+CERT-1065,Naissance,27-Feb-90,pierre SCHMIDT,Strasbourg
+CERT-1369,Décès,16-Jun-90,Anna Martin,Munich
+CERT-1174,Décès,17-Nov-90,Marie Fischer,Lyon
+CERT-1150,Décès,17-02-1993,hans BERNARD,Hamburg
+CERT-1258,Death,18-11-1993,Lukas Dubois,Paris
+CERT-1290,Décès,22.09.90,marie MARTIN,Paris
+CERT-1397,Heirat,06-Jan-94,  Marie   Dubois  ,Paris
+CERT-1425,Heirat,27.02.94,,Paris
+CERT-1144,Geburt,17-Jan-91,klaus MÜLLER,Strasbourg
+CERT-1360,Geburt,28.11.96,  Jean   Roux  ,Marseille
+CERT-1315,Geburt,09-Jul-95,  Hans   Fischer  ,Lyon
+CERT-1487,Décès,03.05.97,Anna Fischer,Berlin
+CERT-1368,Heirat,04.06.95,jean ROUX,Paris
+CERT-1463,Mariage,23.02.98,Lukas Fischer,Hamburg
+CERT-1014,Heirat,19-11-1995,claire DUBOIS,
+CERT-1096,Tod,23-04-1994,Klaus Müller,Strasbourg
+CERT-1488,Mariage,19-Déc-1997,,Strasbourg
+CERT-1371,Heirat,02-07-1998,Jean Roux,Berlin
+CERT-1167,Heirat,20-10-1996,jean MÜLLER,Strasbourg
+CERT-1440,Mariage,02.06.93,lukas SCHNEIDER,Lyon
+CERT-1016,Décès,12-07-1992,hans MARTIN,Hamburg
+CERT-1060,Décès,27-12-1991,claire SCHNEIDER,Strasbourg
+CERT-1283,Tod,05-01-1991,klaus FISCHER,Berlin
+CERT-1402,Décès,08-Jun-98,hans FISCHER,Hamburg
+CERT-1347,Tod,21-05-1996,  Julia   Schneider  ,Paris
+CERT-1343,Mariage,02-01-1996,hans MÜLLER,Paris
+CERT-1365,Birth,06.07.97,lukas SCHMIDT,Munich
+CERT-1427,Tod,15-Aug-90,klaus SCHNEIDER,Strasbourg
+CERT-1160,Heirat,01-11-1993,hans ROUX,Strasbourg
+CERT-1147,Geburt,26-04-1995,Anna Schneider,
+CERT-1018,Geburt,24.10.98,jean SCHNEIDER,Lyon
+CERT-1085,Tod,28-08-1995,Pierre Dubois,Berlin
+CERT-1056,Death,04.08.94,hans SCHNEIDER,Hamburg
+CERT-1355,Décès,01-01-1992,Sophie Martin,Lyon
+CERT-1069,Death,15-Oct-96,Lukas Martin,Hamburg
+CERT-1499,Geburt,14-03-1999,Klaus Schneider,Berlin
+CERT-1328,Geburt,17-12-1999,hans BERNARD,Berlin
+CERT-1372,Heirat,08-10-1993,sophie BERNARD,Hamburg
+CERT-1445,Heirat,21-Apr-91,jean SCHNEIDER,
+CERT-1353,Décès,23.09.99,jean MARTIN,Lyon
+CERT-1321,Death,26-08-1992,Klaus Bernard,Munich
+CERT-1312,Heirat,16-Oct-92,klaus DUBOIS,Marseille
+CERT-1413,Death,13-Jun-92,claire SCHMIDT,Hamburg
+CERT-1231,Death,20-04-1999,Claire Dubois,Lyon
+CERT-1421,Heirat,24-05-1991,julia MÜLLER,
+CERT-1132,Birth,14-08-1996,Sophie Bernard,Strasbourg
+CERT-1083,Mariage,15.04.99,claire FISCHER,Strasbourg
+CERT-1251,Heirat,10-07-1995,anna DUBOIS,Berlin
+CERT-1250,Mariage,07-Feb-90,  Anna   Bernard  ,Marseille
+CERT-1044,Naissance,12-Sep-94,klaus SCHNEIDER,Berlin
+CERT-1380,Tod,28.01.91,Anna Martin,Strasbourg
+CERT-1337,Geburt,20-Jun-98,hans ROUX,
+CERT-1395,Décès,12-03-1992,klaus MÜLLER,Hamburg
+CERT-1125,Birth,16-08-1998,Pierre Müller,Lyon
+CERT-1403,Birth,01.09.93,,Hamburg
+CERT-1162,Mariage,10-05-1996,  Pierre   Fischer  ,Hamburg
+CERT-1307,Tod,24-02-1991,Pierre Roux,Hamburg
+CERT-1204,Décès,06.12.94,julia ROUX,
+CERT-1284,Tod,18-Jan-99,  Sophie   Roux  ,Lyon
+CERT-1051,Tod,26-03-1995,marie SCHMIDT,Berlin
+CERT-1253,Death,06-Feb-94,  Pierre   Martin  ,Lyon
+CERT-1104,Heirat,28-05-1997,marie FISCHER,
+CERT-1295,Mariage,24-06-1994,  Lukas   Müller  ,Strasbourg
+CERT-1447,Birth,22-11-1996,julia BERNARD,Strasbourg
+CERT-1130,Death,10-12-1996,hans MARTIN,Paris
+CERT-1097,Birth,09.07.90,  Sophie   Schneider  ,Berlin
+CERT-1226,Tod,18-06-1992,pierre MARTIN,Paris
+CERT-1078,Décès,24.08.95,Jean Roux,Strasbourg
+CERT-1221,Geburt,21-08-1991,klaus SCHMIDT,Berlin
+CERT-1276,Death,03-10-1990,claire MARTIN,Lyon
+CERT-1000,Tod,16-12-1991,  Sophie   Fischer  ,Paris
+CERT-1228,Death,27-09-1995,claire ROUX,Hamburg
+CERT-1066,Mariage,13-01-1992,,Munich
+CERT-1460,Geburt,18-02-1992,lukas SCHNEIDER,Munich
+CERT-1282,Tod,05-12-1997,Marie Bernard,Hamburg
+CERT-1244,Birth,28.10.99,sophie MARTIN,Paris
+CERT-1318,Naissance,10.08.97,marie SCHNEIDER,Paris
+CERT-1257,Birth,10.07.97,  Marie   Müller  ,Hamburg
+CERT-1188,Geburt,15.06.97,Claire Martin,Berlin
+CERT-1418,Birth,24-Apr-97,Klaus Bernard,Lyon
+CERT-1334,Death,16-06-1991,,Lyon
+CERT-1331,Heirat,27-10-1997,hans FISCHER,Munich
+CERT-1342,Death,23-04-1992,Marie Müller,Berlin
+CERT-1229,Geburt,26-04-1997,  Jean   Roux  ,Munich
+CERT-1026,Death,18-08-1990,Marie Martin,
+CERT-1209,Death,26-10-1991,Claire Schmidt,Lyon
+CERT-1326,Naissance,27.06.90,Hans Martin,Hamburg
+CERT-1297,Tod,24.05.99,Pierre Schmidt,
+CERT-1075,Mariage,10.05.92,julia SCHNEIDER,Hamburg
+CERT-1482,Naissance,21-Mar-90,Julia Dubois,Berlin
+CERT-1423,Tod,21-11-1994,Claire Bernard,Berlin
+CERT-1189,Death,04-08-1991,  Klaus   Bernard  ,Marseille
+CERT-1199,Naissance,13-04-1993,  Jean   Roux  ,Berlin
+CERT-1108,Naissance,02.11.97,Jean Fischer,Lyon
+CERT-1182,Geburt,10-04-1999,Claire Schneider,Marseille
+CERT-1186,Naissance,13-Nov-97,Sophie Dubois,Hamburg
+CERT-1127,Décès,16.05.99,claire MÜLLER,Munich
+CERT-1453,Birth,25-10-1996,Pierre Roux,Marseille
+CERT-1145,Naissance,12-Jun-94,Julia Fischer,Lyon
+CERT-1305,Tod,19-Déc-1990,pierre FISCHER,
+CERT-1408,Mariage,18-06-1997,lukas DUBOIS,
+CERT-1281,Birth,24-10-1998,  Jean   Dubois  ,Hamburg
+CERT-1173,Heirat,26-09-1996,hans SCHMIDT,Munich
+CERT-1462,Geburt,09.06.91,julia BERNARD,Strasbourg
+CERT-1348,Geburt,10-03-1993,Anna Schmidt,Berlin
+CERT-1036,Mariage,01-Feb-90,Jean Martin,Berlin
+CERT-1151,Décès,11-Mar-97,Marie Dubois,Strasbourg
+CERT-1224,Mariage,11-11-1991,  Sophie   Bernard  ,Lyon
+CERT-1207,Décès,04-Feb-96,sophie DUBOIS,Marseille
+CERT-1458,Tod,01-06-1994,claire SCHMIDT,Marseille
+CERT-1049,Naissance,21-Mar-97,Claire Dubois,Paris
+CERT-1303,Death,04-Jun-99,Hans Roux,Marseille
+CERT-1240,Mariage,11.06.96,Hans Schmidt,
+CERT-1265,Death,23.07.93,Sophie Roux,Munich
+CERT-1032,Heirat,05.06.95,anna SCHMIDT,Marseille
+CERT-1200,Décès,20.11.94,anna BERNARD,Berlin
+CERT-1074,Tod,07-04-1994,klaus MÜLLER,Marseille
+CERT-1253,Death,06-Feb-94,  Pierre   Martin  ,Lyon
+CERT-1292,Death,17.11.97,Klaus Roux,Lyon
+CERT-1412,Naissance,02-Mai-1990,Marie Martin,Strasbourg
+CERT-1288,Birth,28.10.95,,Berlin
+CERT-1139,Décès,20-Apr-95,Julia Fischer,Lyon
+CERT-1388,Tod,16-11-1990,jean ROUX,Munich
+CERT-1073,Birth,28-03-1996,sophie ROUX,
+CERT-1472,Tod,21-11-1998,Lukas Roux,Strasbourg
+CERT-1183,Death,02-Mar-95,Julia Roux,Munich
+CERT-1033,Tod,22-03-1993,sophie SCHNEIDER,Strasbourg
+CERT-1179,Mariage,05-02-1995,Jean Bernard,Strasbourg
+CERT-1346,Tod,24-Jun-98,,Paris
+CERT-1306,Birth,14.12.93,anna DUBOIS,Lyon
+CERT-1433,Décès,16.03.94,  Claire   Bernard  ,Munich
+CERT-1313,Geburt,28-02-1991,Anna Schmidt,Marseille
+CERT-1030,Death,10-05-1996,pierre FISCHER,Marseille
+CERT-1491,Décès,06-10-1999,marie SCHNEIDER,Marseille
+CERT-1356,Geburt,18-01-1997,Jean Fischer,
+CERT-1141,Décès,25-11-1993,anna DUBOIS,Marseille
+CERT-1438,Heirat,24-04-1996,anna BERNARD,Hamburg
+CERT-1375,Mariage,22-Jun-91,Hans Müller,
+CERT-1399,Death,02-08-1994,julia MÜLLER,Hamburg
+CERT-1274,Geburt,22-Déc-1998,lukas SCHNEIDER,Lyon
+CERT-1471,Birth,01-01-1992,lukas SCHMIDT,
+CERT-1116,Death,22-Jun-94,marie MÜLLER,Hamburg
+CERT-1076,Naissance,19.11.91,claire SCHNEIDER,Hamburg
+CERT-1185,Décès,17-11-1994,hans FISCHER,Berlin
+CERT-1455,Naissance,04-07-1991,Hans Dubois,Strasbourg
+CERT-1070,Mariage,08-03-1992,  Lukas   Bernard  ,Strasbourg
+CERT-1113,Mariage,17-07-1991,klaus FISCHER,Strasbourg
+CERT-1202,Décès,17.03.92,Marie Dubois,Paris
+CERT-1454,Birth,19-07-1993,Marie Bernard,Lyon
+CERT-1055,Geburt,28.04.98,marie DUBOIS,Hamburg
+CERT-1230,Mariage,08.11.92,Sophie Schmidt,
+CERT-1296,Naissance,04-01-1991,Claire Müller,Paris
+CERT-1396,Naissance,24-10-1990,anna MÜLLER,Lyon
+CERT-1467,Tod,27-Feb-90,Claire Dubois,Munich
+CERT-1384,Heirat,25.10.99,  Anna   Fischer  ,
+CERT-1131,Décès,15-01-1991,Julia Schmidt,Hamburg
+CERT-1210,Naissance,06-02-1993,klaus ROUX,
+CERT-1172,Décès,14.06.92,Klaus Fischer,Paris
+CERT-1269,Birth,04-12-1993,klaus FISCHER,Munich
+CERT-1309,Mariage,16-01-1996,julia SCHMIDT,Paris
+CERT-1271,Heirat,06-08-1996,lukas FISCHER,Strasbourg
+CERT-1447,Birth,22-11-1996,julia BERNARD,Strasbourg
+CERT-1102,Death,02-01-1993,  Hans   Martin  ,Hamburg
+CERT-1148,Mariage,12-02-1991,marie ROUX,Paris
+CERT-1232,Heirat,28.02.90,jean BERNARD,Paris
+CERT-1442,Death,02-Sep-95,Marie Bernard,Lyon
+CERT-1105,Geburt,15.09.95,pierre ROUX,Berlin
+CERT-1111,Mariage,02.02.92,Lukas Bernard,
+CERT-1432,Birth,12-Feb-92,hans BERNARD,
+CERT-1419,Naissance,11-Sep-92,Julia Fischer,Hamburg
+CERT-1163,Death,08.06.96,Pierre Dubois,
+CERT-1424,Geburt,03-09-1996,lukas ROUX,Paris
+CERT-1324,Geburt,09-03-1996,hans SCHNEIDER,Hamburg
+CERT-1248,Birth,17-Jan-99,marie DUBOIS,Berlin
+CERT-1385,Heirat,23-05-1990,hans MÜLLER,Paris
+CERT-1484,Death,11-06-1998,,Strasbourg
+CERT-1010,Death,10-Mai-1990,Marie Schneider,Munich
+CERT-1164,Tod,22-Jul-96,Jean Schmidt,Strasbourg
+CERT-1058,Heirat,15-03-1991,Hans Schmidt,Strasbourg
+CERT-1416,Heirat,22-03-1995,Sophie Bernard,Munich
+CERT-1017,Mariage,20-05-1997,Julia Roux,Lyon
+CERT-1260,Death,08-12-1994,Marie Bernard,Munich
+CERT-1474,Geburt,21-07-1991,  Klaus   Roux  ,Strasbourg
+CERT-1390,Tod,12-11-1999,julia BERNARD,Paris
+CERT-1143,Geburt,28-Feb-99,lukas ROUX,Munich
+CERT-1329,Geburt,07-Jun-97,claire MARTIN,Strasbourg
+CERT-1398,Birth,16-10-1994,Julia Schmidt,Lyon
+CERT-1444,Mariage,27-04-1994,claire BERNARD,Paris
+CERT-1352,Heirat,24-03-1999,Claire Müller,Berlin
+CERT-1034,Birth,08-04-1997,  Klaus   Müller  ,Strasbourg
+CERT-1279,Birth,18-10-1995,Anna Roux,Munich
+CERT-1149,Mariage,05.10.93,hans DUBOIS,Marseille
+CERT-1349,Geburt,23-01-1999,Marie Roux,Marseille
+CERT-1272,Décès,20-06-1995,sophie FISCHER,Paris
+CERT-1153,Tod,24-Oct-93,Klaus Müller,Strasbourg
+CERT-1475,Geburt,27-09-1996,klaus MARTIN,Strasbourg
+CERT-1247,Tod,08-Feb-95,Anna Bernard,Marseille
+CERT-1335,Tod,01-05-1992,Julia Roux,Strasbourg
+CERT-1215,Death,08-Mai-1991,hans ROUX,Lyon
+CERT-1241,Death,18-12-1998,marie MARTIN,Hamburg
+CERT-1273,Naissance,21.08.95,lukas DUBOIS,Paris
+CERT-1115,Mariage,09-02-1999,pierre FISCHER,Berlin
+CERT-1011,Tod,24-05-1991,klaus SCHMIDT,

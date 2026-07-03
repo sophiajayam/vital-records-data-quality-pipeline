@@ -1,0 +1,96 @@
+Record_ID,Event_Type,Event_Date,Full_Name,City,Error_Reason
+CERT-1002,Birth,1996-02-24,Klaus Dubois,,Missing City 
+CERT-1011,Death,1991-05-24,Klaus Schmidt,,Missing City 
+CERT-1014,Marriage,1995-11-19,Claire Dubois,,Missing City 
+CERT-1015,Death,1991-04-14,Jean Dubois,Strasbourg,Duplicate Record_ID 
+CERT-1018,Birth,1998-10-24,Jean Schneider,Lyon,Duplicate Record_ID 
+CERT-1023,Death,1999-07-23,,Paris,Missing Name 
+CERT-1026,Death,1990-08-18,Marie Martin,,Missing City 
+CERT-1028,Death,1999-01-10,,Paris,Missing Name 
+CERT-1041,Death,1994-11-11,Anna Bernard,,Missing City 
+CERT-1046,Birth,1995-02-20,Claire Schmidt,,Missing City 
+CERT-1052,Death,1996-09-21,Marie Roux,,Missing City 
+CERT-1057,Birth,1999-08-01,Claire Schneider,,Missing City 
+CERT-1059,Birth,1990-03-06,Claire Schneider,,Missing City 
+CERT-1066,Marriage,1992-01-13,,Munich,Missing Name 
+CERT-1073,Birth,1996-03-28,Sophie Roux,,Missing City 
+CERT-1091,Marriage,1992-02-03,Jean Schmidt,,Missing City 
+CERT-1101,Death,1994-12-07,Pierre Dubois,,Missing City 
+CERT-1104,Marriage,1997-05-28,Marie Fischer,,Missing City 
+CERT-1106,Marriage,1997-03-05,Claire Schneider,,Missing City 
+CERT-1111,Marriage,1992-02-02,Lukas Bernard,,Missing City 
+CERT-1114,Death,1991-02-24,Klaus Roux,,Missing City 
+CERT-1124,Death,1998-08-07,Klaus Schmidt,Marseille,Duplicate Record_ID 
+CERT-1128,Death,1994-11-15,,Berlin,Missing Name 
+CERT-1135,Marriage,1999-12-02,Anna Fischer,,Missing City 
+CERT-1147,Birth,1995-04-26,Anna Schneider,,Missing City 
+CERT-1151,Death,1997-03-11,Marie Dubois,Strasbourg,Duplicate Record_ID 
+CERT-1163,Death,1996-06-08,Pierre Dubois,,Missing City 
+CERT-1173,Marriage,1996-09-26,Hans Schmidt,Munich,Duplicate Record_ID 
+CERT-1175,Marriage,1998-12-24,,Strasbourg,Missing Name 
+CERT-1184,Death,1993-11-12,,Hamburg,Missing Name 
+CERT-1190,Death,1997-05-27,Anna Martin,,Missing City 
+CERT-1191,Birth,1991-03-16,Hans Roux,,Missing City 
+CERT-1192,Birth,1995-08-20,Marie Schneider,,Missing City 
+CERT-1197,Death,1999-12-12,Marie Fischer,,Missing City 
+CERT-1197,Death,1999-12-12,Marie Fischer,,Missing City Duplicate Record_ID 
+CERT-1204,Death,1994-12-06,Julia Roux,,Missing City 
+CERT-1208,Death,1994-09-23,,Lyon,Missing Name 
+CERT-1210,Birth,1993-02-06,Klaus Roux,,Missing City 
+CERT-1218,Marriage,1998-09-22,Lukas Bernard,,Missing City 
+CERT-1225,Birth,1995-10-12,Lukas Roux,,Missing City 
+CERT-1227,Birth,1992-02-20,,Strasbourg,Missing Name 
+CERT-1230,Marriage,1992-11-08,Sophie Schmidt,,Missing City 
+CERT-1237,Marriage,1999-11-07,Lukas Fischer,Munich,Duplicate Record_ID 
+CERT-1240,Marriage,1996-06-11,Hans Schmidt,,Missing City 
+CERT-1249,Birth,1997-09-03,Claire Bernard,,Missing City 
+CERT-1253,Death,1994-02-06,Pierre Martin,Lyon,Duplicate Record_ID 
+CERT-1262,Marriage,1998-01-07,Lukas Dubois,,Missing City 
+CERT-1270,Birth,1990-02-16,,Munich,Missing Name 
+CERT-1275,Death,1996-01-15,Sophie Schmidt,Munich,Duplicate Record_ID 
+CERT-1288,Birth,1995-10-28,,Berlin,Missing Name 
+CERT-1293,Marriage,1992-12-14,,Hamburg,Missing Name 
+CERT-1294,Death,1996-02-11,Hans Bernard,Strasbourg,Duplicate Record_ID 
+CERT-1297,Death,1999-05-24,Pierre Schmidt,,Missing City 
+CERT-1299,Marriage,1997-06-24,Klaus Roux,Berlin,Duplicate Record_ID 
+CERT-1302,Death,1995-01-12,Marie Bernard,Paris,Duplicate Record_ID 
+CERT-1305,Death,1990-12-19,Pierre Fischer,,Missing City 
+CERT-1312,Marriage,1992-10-16,Klaus Dubois,Marseille,Duplicate Record_ID 
+CERT-1332,Marriage,1991-12-14,,Hamburg,Missing Name 
+CERT-1334,Death,1991-06-16,,Lyon,Missing Name 
+CERT-1337,Birth,1998-06-20,Hans Roux,,Missing City 
+CERT-1338,Death,1992-06-25,,Berlin,Missing Name 
+CERT-1339,Death,1993-10-14,,Munich,Missing Name 
+CERT-1346,Death,1998-06-24,,Paris,Missing Name 
+CERT-1347,Death,1996-05-21,Julia Schneider,Paris,Duplicate Record_ID 
+CERT-1356,Birth,1997-01-18,Jean Fischer,,Missing City 
+CERT-1358,Birth,1999-04-25,,Berlin,Missing Name 
+CERT-1370,Birth,1996-02-05,,Strasbourg,Missing Name 
+CERT-1375,Marriage,1991-06-22,Hans Müller,,Missing City 
+CERT-1384,Marriage,1999-10-25,Anna Fischer,,Missing City 
+CERT-1400,Marriage,1992-06-03,Claire Bernard,,Missing City 
+CERT-1403,Birth,1993-09-01,,Hamburg,Missing Name 
+CERT-1408,Marriage,1997-06-18,Lukas Dubois,,Missing City 
+CERT-1410,Birth,1994-07-23,Marie Roux,,Missing City 
+CERT-1421,Marriage,1991-05-24,Julia Müller,,Missing City 
+CERT-1422,Death,1992-09-08,,Munich,Missing Name 
+CERT-1425,Marriage,1994-02-27,,Paris,Missing Name 
+CERT-1428,Marriage,1999-05-01,,Paris,Missing Name 
+CERT-1432,Birth,1992-02-12,Hans Bernard,,Missing City 
+CERT-1433,Death,1994-03-16,Claire Bernard,Munich,Duplicate Record_ID 
+CERT-1434,Birth,1991-01-10,Hans Schmidt,,Missing City 
+CERT-1436,Marriage,1997-10-10,Julia Bernard,,Missing City 
+CERT-1441,Marriage,1990-07-14,Sophie Schmidt,,Missing City 
+CERT-1445,Marriage,1991-04-21,Jean Schneider,,Missing City 
+CERT-1446,Death,1990-10-21,Hans Martin,,Missing City 
+CERT-1447,Birth,1996-11-22,Julia Bernard,Strasbourg,Duplicate Record_ID 
+CERT-1449,Marriage,1999-04-23,Klaus Dubois,Lyon,Duplicate Record_ID 
+CERT-1457,Marriage,1990-03-13,,Strasbourg,Missing Name 
+CERT-1471,Birth,1992-01-01,Lukas Schmidt,,Missing City 
+CERT-1473,Death,1997-04-10,Sophie Schmidt,,Missing City 
+CERT-1483,Death,1998-11-09,Marie Fischer,,Missing City 
+CERT-1484,Death,1998-06-11,,Strasbourg,Missing Name 
+CERT-1487,Death,1997-05-03,Anna Fischer,Berlin,Duplicate Record_ID 
+CERT-1488,Marriage,1997-12-19,,Strasbourg,Missing Name 
+CERT-1496,Death,1999-12-16,Jean Roux,Hamburg,Duplicate Record_ID 
+CERT-1498,Birth,1995-07-17,Jean Roux,Lyon,Duplicate Record_ID 

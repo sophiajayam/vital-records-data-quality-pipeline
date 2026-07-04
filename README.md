@@ -199,7 +199,9 @@ Computer Science Graduate
 - Git & GitHub
 
 ### Connect with Me
+**LinkedIn**
 
+www.linkedin.com/in/sophia-j-b58310260
 
 **GitHub**
 
